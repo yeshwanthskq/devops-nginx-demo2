@@ -2,4 +2,9 @@
 
 ## Intro
 
-This project helps you install nginx
+This project helps you install nginix
+
+
+Read me file has been updated
+
+The following bla blla update has been done
