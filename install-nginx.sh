@@ -1,0 +1,3 @@
+tal 
+
+install nginx
